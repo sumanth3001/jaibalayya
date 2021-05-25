@@ -10,9 +10,9 @@ text-decoration:none ;background-color:blue ;color:white;padding:5px;margin:2px
 p{
 background-color:red ;width:100%; padding:15px;color:white
 }
-body{margin:0;
+body{margin:0;padding:0;
 background-image:url("https://th.bing.com/th/id/OIP.zlzNxiNTN4Nyv4Gsw1qlugHaEo?w=256&h=180&c=7&o=5&dpr=1.32&pid=1.7");
-    background-repeat:no-repeat
+    
 }
 p1{
 font-size:25px
